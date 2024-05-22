@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1716395611|4097374';
+const CACHE_VERSION = '1716407474|4182150';
 /** @type {string} */
 const CACHE_PREFIX = 'Star-Wars-RPG-To-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
